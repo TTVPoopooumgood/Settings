@@ -2,7 +2,7 @@
 ### Juice Settings
 My Kirka Setings For [Juice Settings](https://ttvpoopooumgood.github.io/Settings/Juice)
 ### Css
-And [css](https://ttvpoopooumgood.github.io/Settings/css/Halloween/index.css) 
+And [css](https://ttvpoopooumgood.github.io/Settings/css/Halloween/Halloween-CSS-ContestV5.css)
 ### Kirka settings
 and Well kirka [setings](https://ttvpoopooumgood.github.io/Settings/Kirka)
 ### Kirka Sounds
