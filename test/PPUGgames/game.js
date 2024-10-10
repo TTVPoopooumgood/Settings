@@ -33,7 +33,7 @@ let messageHtml = `
     margin-block-start: 0.67em;
     margin-block-end: 0.67em;
 ">This Page has moved.</h1>
-<a href="ttvpoopooumgood.github.io/PPUGgames" style="
+<a href="https://ttvpoopooumgood.github.io/PPUGgames" style="
     font-family: helvetica, sans-serif;
     text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
 ">https://PPUGgames.com</a>
@@ -48,7 +48,7 @@ let messageHtml = `
 <p style="
     font-family: helvetica,sans-serif;
     text-shadow: 1px 1px 3px rgba(0,0,0,0.1);
-">I Broke it and My alt did To.</p>
+">I Broke it.</p>
 `;
 messageBoxEl.id = 'message-box';
 messageBoxEl.style = messageStyle;
