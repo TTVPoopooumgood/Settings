@@ -1,4 +1,4 @@
-{Setings}
+.{Setings}
 > added
 ``` Css
 FILL
