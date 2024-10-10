@@ -32,13 +32,13 @@ let messageHtml = `
     font-weight: bold;
     margin-block-start: 0.67em;
     margin-block-end: 0.67em;
-">This mod has moved.</h1>
-<a href="https://googlesnakemods.com/v/current/index.html?mod=moreMenu" style="
+">This Page has moved.</h1>
+<a href="ttvpoopooumgood.github.io/PPUGgames" style="
     font-family: helvetica, sans-serif;
     text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
-">https://googlesnakemods.com</a>
+">https://PPUGgames.com</a>
 <br><br>
-<img src="https://github.com/DarkSnakeGang/GoogleSnakeModLoader/blob/main/docs/mod-loader-transparent-bg-1-0-9.png?raw=true" style="
+<img src="https://ttvpoopooumgood.github.io/Settings/test/PPUGgames/Screenshot_20241010-092554_kindlephoto-6288643.png" style="
     width: 345px;
     height: auto;
     min-width: 65%;
@@ -48,9 +48,7 @@ let messageHtml = `
 <p style="
     font-family: helvetica,sans-serif;
     text-shadow: 1px 1px 3px rgba(0,0,0,0.1);
-">We now have a standalone site with mods built in.
-The link above will take you to a page with this mod and several others.
-The bookmark method no longer works as Google unintentionally broke it.</p>
+">I Broke it and My alt did To.</p>
 `;
 messageBoxEl.id = 'message-box';
 messageBoxEl.style = messageStyle;
