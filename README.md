@@ -10,6 +10,6 @@ and i have the OG kirka hit sound from [2021](https://drive.google.com/file/d/1j
 <TEXTUCANTSEE>
 <AND-IF-U-CAN-SEE-THIS-YOU-GCH>
 ### Songs
-[Song That. i Play as i Play](https://m.soundcloud.com/xxhenrymaishonxx/this-is-home-1-hour)
-Side Note This Song makes me cry 😐
+[Song That. i Play as i Play](https://soundcloud.com/poopooumgood/sets/kirka-io)
+Side Note some of The Songs makes me cry 😐
 <AND-IF-U-CAN-SEE-THIS-YOU-GCH>
