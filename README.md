@@ -10,7 +10,8 @@ and i have the OG kirka hit sound from [2021](https://drive.google.com/file/d/1j
 <TEXTUCANTSEE>
 <AND-IF-U-CAN-SEE-THIS-YOU-GCH>
 ### Kirka skin 
-skin [skin](https://raw.githubusercontent.com/TTVPoopooumgood/Settings/refs/heads/main/Kirka/Screenshot_20241011-225809_kindlephoto-46709767.png) [Skin Thing.](https://raw.githubusercontent.com/TTVPoopooumgood/Settings/refs/heads/main/Kirka/avatar.png)
+skin [Skin Thing.](https://raw.githubusercontent.com/TTVPoopooumgood/Settings/refs/heads/main/Kirka/avatar.png)
+[skin](https://raw.githubusercontent.com/TTVPoopooumgood/Settings/refs/heads/main/Kirka/Screenshot_20241011-225809_kindlephoto-46709767.png)
 ### Songs
 [Song That. i Play as i Play](https://m.soundcloud.com/xxhenrymaishonxx/this-is-home-1-hour)
 > Side Note This Song makes me cry 😐
