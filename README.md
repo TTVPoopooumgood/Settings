@@ -9,3 +9,5 @@ and Well kirka [setings](https://ttvpoopooumgood.github.io/Settings/Kirka)
 and i have the OG kirka hit sound from [2021](https://drive.google.com/file/d/1jBrC1vpaYjgHQmU4gTTz5kcbGvXEmPIk/view)
 <TEXTUCANTSEE>
 <AND-IF-U-CAN-SEE-THIS-YOU-GCH>
+### Kirka skin 
+[skin](https://raw.githubusercontent.com/TTVPoopooumgood/Settings/refs/heads/main/Kirka/Screenshot_20241011-225809_kindlephoto-46709767.png) [Skin Thing.](https://raw.githubusercontent.com/TTVPoopooumgood/Settings/refs/heads/main/Kirka/avatar.png)
