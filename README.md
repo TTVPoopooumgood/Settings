@@ -11,5 +11,5 @@ and i have the OG kirka hit sound from [2021](https://drive.google.com/file/d/1j
 <AND-IF-U-CAN-SEE-THIS-YOU-GCH>
 ### Songs
 [Song That. i Play as i Play](https://m.soundcloud.com/xxhenrymaishonxx/this-is-home-1-hour)
-> Side Note This Song makes me cry 😐
+Side Note This Song makes me cry 😐
 <AND-IF-U-CAN-SEE-THIS-YOU-GCH>
