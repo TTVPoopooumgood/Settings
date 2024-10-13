@@ -7,5 +7,5 @@ And [css](https://ttvpoopooumgood.github.io/Settings/css/Halloween/Halloween-CSS
 and Well kirka [setings](https://ttvpoopooumgood.github.io/Settings/Kirka)
 ### Kirka Sounds
 and i have the OG kirka hit sound from [2021](https://drive.google.com/file/d/1jBrC1vpaYjgHQmU4gTTz5kcbGvXEmPIk/view)
-### Map
-[Clash](https://ttvpoopooumgood.github.io/Settings/Map)
+### Maps
+[Clash](https://ttvpoopooumgood.github.io/Settings/Map) [Nuke](https://ttvpoopooumgood.github.io/Settings/Map/Nuke)
